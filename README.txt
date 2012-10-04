@@ -1,0 +1,1 @@
+This is my first attempted at creating/modding a WordPress theme
